@@ -1,0 +1,28 @@
+# Question 1
+1. Ask user to enter Num1
+2. Ask user to enter Num2
+3. Num2>Num1
+4. SET Remainder to Num2/Num1
+5. If Remainder = 0 then Num1 is a divisor
+6. But if remainder ≠ 0 then Num1 is not a divisor
+7. furthermore if last digit of Num1 is multiple of 2 then Num1 is even, if not then it is odd
+
+# Question 2
+1. Ask user to enter Num
+2. SET Num parameters tfrom 1 to 12
+3. Display "error" if Num>12 or Num<1
+4. Assign values 1~12 to the periodic months of the year January~December
+5. Output month accroding to respective number
+
+# Question 3
+1. Ask user to enter Num1
+2. Ask user to enter Num2
+3. Initialize Ans = 0
+4. Ask user to enter operator from (+,-,/,*,%)
+5. if operator is "+", add both Num1 and Num2
+6. if operator is "-", subtract both Num1 and Num2
+7. if operator is "*", multiply both Num1 and Num2
+8. if operator is "/", divide both Num1 and Num2
+9. if operator is "%", divide Num1 by Num2, then multiply by 100
+10. store value to Ans
+11. Output Ans
